@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/bakery/static/css/main.3768fee0.css",
+    "main.js": "/bakery/static/js/main.7fb00995.js",
+    "static/js/787.b2a56feb.chunk.js": "/bakery/static/js/787.b2a56feb.chunk.js",
+    "static/media/about.png": "/bakery/static/media/about.16d47689b283e61c5670.png",
+    "static/media/sandwichLogo.png": "/bakery/static/media/sandwichLogo.7d14f71f9d07279051e8.png",
+    "static/media/fa-solid-900.ttf": "/bakery/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/bgTest.png": "/bakery/static/media/bgTest.83a5be16c08a67db26df.png",
+    "static/media/bg1.png": "/bakery/static/media/bg1.c9b160400bde0b46fed2.png",
+    "static/media/card4.png": "/bakery/static/media/card4.9794dd11a692acf22733.png",
+    "static/media/card2.png": "/bakery/static/media/card2.7f822f16b8ff0a8cfc29.png",
+    "static/media/card3.png": "/bakery/static/media/card3.12e18d8fed611a43dd10.png",
+    "static/media/fa-brands-400.ttf": "/bakery/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/card1.png": "/bakery/static/media/card1.8e85e4207678edf06529.png",
+    "static/media/fa-solid-900.woff2": "/bakery/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/bakery/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/bakery/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/bakery/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/text1.png": "/bakery/static/media/text1.3eddecc6961455f6c14c.png",
+    "static/media/Star1.png": "/bakery/static/media/Star1.acb45f7d6e07e09507fd.png",
+    "static/media/fa-v4compatibility.ttf": "/bakery/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/bakery/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/logo.svg": "/bakery/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bakery/index.html",
+    "main.3768fee0.css.map": "/bakery/static/css/main.3768fee0.css.map",
+    "main.7fb00995.js.map": "/bakery/static/js/main.7fb00995.js.map",
+    "787.b2a56feb.chunk.js.map": "/bakery/static/js/787.b2a56feb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3768fee0.css",
+    "static/js/main.7fb00995.js"
+  ]
+}
